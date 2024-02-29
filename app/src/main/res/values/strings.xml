@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Himanshu Maurya</string>
+    <string name="work_does_or_position_held"><![CDATA[Android & Java App Developer]]></string>
+    <string name="phone">+91 1234567890</string>
+    <string name="email">himnashu.m@android.com</string>
+    <string name="share">\@AndroidJavaAppDev</string>
+</resources>
